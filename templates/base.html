@@ -74,6 +74,17 @@
 			  </aside>
 			{% endif %}
 
+	        {% if MYLINKS %}
+	          <aside>
+	            <h2>Other projects</h2>
+	            <ul>
+	              {% for name, link in MYLINKS %}
+	                <li><a href="{{ link }}">{{ name }}</a></li>
+	              {% endfor %}
+	            </ul>
+	          </aside>
+	        {% endif %}	
+
 	        {% if LINKS %}
 	          <aside>
 	            <h2>Blogroll</h2>
