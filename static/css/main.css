@@ -264,7 +264,6 @@ ol.archive li .tags
 .social a[href*='rss.xml']:before {content: url('../images/icons/feed-18px.png'); }
 .social a[href*='atom.xml']:before {content: url('../images/icons/feed-18px.png'); }
 
-
 /* Tag cloud */
 
 ul.tagcloud {

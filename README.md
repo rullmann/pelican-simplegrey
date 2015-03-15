@@ -3,6 +3,8 @@
 Originally deleveloped by [Fle](https://github.com/fle/pelican-simplegrey).
 This repo will track the changes I've made for [//erinnerungsfragmente.de](https://erinnerungsfragmente.de).
 
+*Not in use anymore. Please take a look at [droidstrap](https://github.com/rullmann/droidstrap)*
+
 ## Screenshot ##
 
 ![screenshot](screenshot.png)
